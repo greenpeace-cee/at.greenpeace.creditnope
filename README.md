@@ -1,5 +1,7 @@
 # CiviCRM Credit Note Disabler
 
+[![CircleCI](https://circleci.com/gh/greenpeace-cee/at.greenpeace.creditnope.svg?style=svg)](https://circleci.com/gh/greenpeace-cee/at.greenpeace.creditnope)
+
 This extension disables the generation of credit note IDs for cancelled
 contributions. The generation of credit note IDs tends to cause performance
 issues on sites with many contributions.
